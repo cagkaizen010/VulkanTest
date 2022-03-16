@@ -5,4 +5,5 @@ Personal repository for learning this tutorial, https://vulkan-tutorial.com/
 
 (03/15/22) Currently on section: https://vulkan-tutorial.com/Texture_mapping/Images
 
-(03/16/22) Currently on section: https://vulkan-tutorial.com/Generating_Mipmaps
+(03/16/22) Finished Tutorial
+
